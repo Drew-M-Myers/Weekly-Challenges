@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\drewm\\Source\\Repos\\WeeklyChallengesOne\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {}
+    "C:\\Users\\drewm\\source\\repos\\WeeklyChallengesOne\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\drewm\\Source\\Repos\\WeeklyChallengesOne\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {
+    "C:\\Users\\drewm\\source\\repos\\WeeklyChallengesOne\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\drewm\\Source\\Repos\\WeeklyChallengesOne\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+        "projectUniqueName": "C:\\Users\\drewm\\source\\repos\\WeeklyChallengesOne\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
         "projectName": "ChallengesWithTestsMark8",
-        "projectPath": "C:\\Users\\drewm\\Source\\Repos\\WeeklyChallengesOne\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+        "projectPath": "C:\\Users\\drewm\\source\\repos\\WeeklyChallengesOne\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
         "packagesPath": "C:\\Users\\drewm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\drewm\\Source\\Repos\\WeeklyChallengesOne\\ChallengesWithTestsMark8\\obj\\",
+        "outputPath": "C:\\Users\\drewm\\source\\repos\\WeeklyChallengesOne\\ChallengesWithTestsMark8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\drewm\\AppData\\Roaming\\NuGet\\NuGet.Config",
